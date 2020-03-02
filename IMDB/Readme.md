@@ -1,4 +1,4 @@
-We study here gender biases in the IMDB. We start from the list of titles provided by the IMDB and use the gender-guesser (https://pypi.org/project/gender-guesser/) library to infer the gender of a given director.
+We study here gender biases in the IMDB. We start from the list of titles provided by the IMDB (https://www.imdb.com/interfaces/) and use the gender-guesser (https://pypi.org/project/gender-guesser/) library to infer the gender of a given director.
 <br/>
 <br/>
 <img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_distribution.png" width="600">
