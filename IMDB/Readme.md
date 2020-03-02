@@ -5,4 +5,4 @@ TO DO:
 - ratings split by stars: how are they distributed in regards of the gender of the director?
 
 
-<img src="https://github.com/ecancellieri/Face_Recognition_Koibumi/blob/master/Yoshiko_Kuga.png" width="400">
+<img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_distribution.png" width="400">
