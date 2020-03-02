@@ -1,7 +1,7 @@
 We study here gender biases in the IMDB. We start from the list of titles provided by the IMDB (https://www.imdb.com/interfaces/) and use the gender-guesser (https://pypi.org/project/gender-guesser/) library to infer the gender of a given director.
 <br/>
 <br/>
-<img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_distribution.png" width="600">
+<img align="center" src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_distribution.png" width="600">
 <br/>
 While the votes distribution is very similar for Male and Female directors, the movies by Female directors tend to have less votes.
 <br/>
