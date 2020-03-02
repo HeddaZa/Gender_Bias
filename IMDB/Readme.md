@@ -6,6 +6,17 @@ We study here gender biases in the IMDB. We start from the list of titles provid
 While the votes distribution is very similar for Male and Female directors, the movies by Female directors tend to have less votes.
 <br/>
 <br/>
+<br/>
+<br/>
+<img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_vs_years.png" width="600">
+<br/>
+While the votes distribution is very similar for Male and Female directors, the movies by Female directors tend to have less votes.
+<br/>
+<br/>
+
+
+
+
 
 ----------------------------------------------------------------------------
 TO DO:
