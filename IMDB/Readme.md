@@ -2,10 +2,12 @@ We study here gender biases in the IMDB. We start from the list of titles provid
 <br/>
 <br/>
 <img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_distribution.png" width="600">
+<br/>
 While the votes distribution is very similar for Male and Female directors, the movies by Female directors tend to have less votes.
 <br/>
 <br/>
 
+----------------------------------------------------------------------------
 TO DO:
 - ratings + number of votes: possibility: filter by genre and then gender
 - are synopsis genderised?
