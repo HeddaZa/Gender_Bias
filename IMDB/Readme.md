@@ -23,7 +23,7 @@ The average rating for Female and Male directors appear to be quite similar acro
 <img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_vs_genres.png" width="600">
 </p>
 <br/>
-The average rating for Female and Male directors appear to be quite similar across different genres. In general the rating for female directors is slightly higher, apart from the genres: Music, Talk-Show, and '\N' (not knowns).
+The average rating for Female and Male directors appear to be quite similar across different genres. In general the rating for female directors is slightly higher, apart from the genres: Music, Reality-TV, Talk-Show, and '\N' (not knowns).
 <br/>
 <br/>
 
