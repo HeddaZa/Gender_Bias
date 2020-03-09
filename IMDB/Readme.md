@@ -17,6 +17,15 @@ While the votes distribution is very similar for Male and Female directors, the 
 The average rating for Female and Male directors appear to be quite similar across years. However, the number of reviews/votes for Female-directed movies is consistenly and considerably lower than for Male-directed movies.
 <br/>
 <br/>
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/ecancellieri/Gender_Bias/blob/master/IMDB/votes_vs_genres.png" width="600">
+</p>
+<br/>
+The average rating for Female and Male directors appear to be quite similar across years. However, the number of reviews/votes for Female-directed movies is consistenly and considerably lower than for Male-directed movies.
+<br/>
+<br/>
 
 
 ----------------------------------------------------------------------------
